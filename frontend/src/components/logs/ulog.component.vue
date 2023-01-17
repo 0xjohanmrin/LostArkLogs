@@ -4,8 +4,8 @@
       <v-col cols="4">
         <v-file-input
           prepend-icon="mdi-upload"
-          accept=".enc,.log"
-          label="Log File"
+          accept=".enc,.log,.json"
+          label="Log File s"
           v-on:change="onFileChange"
           variant="outlined"
         ></v-file-input>
@@ -239,7 +239,7 @@ export default defineComponent({
   setup() {
     let fileLoaded = ref(false);
     let session = ref({} as USession | undefined);
-    let logType = ref("" as "" | "enc" | "raw");
+    let logType = ref("" as "" | "enc" | "raw" | "json");
     let unlistedUpload = ref(false);
     let guestUpload = ref(false);
     let rawDetails = reactive({
@@ -276,6 +276,11 @@ export default defineComponent({
       try {
         const file = e.target.files[0] as File;
         this.rawDetails.name = file.name;
+        if (file.name.endsWith(".json")) {
+          this.logType = "json";
+          console.log("Reading in json log");
+          console.log(JSON.parse(await file.text()));
+        }
         if (file.name.endsWith(".log")) {
           this.logType = "raw";
 

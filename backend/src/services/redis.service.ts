@@ -7,7 +7,11 @@ class RedisService {
 
   public static async connect(port: number, host: string) {
     if (RedisService.connected) return true;
-    RedisService.connection = new Redis(port, host, {
+    RedisService.connection = new Redis({
+      port: port,
+      host: host,
+      username: 'default',
+      password: 'reyuwFbP69jrdZQWgi5LRNcxnTHKY2ct',
       enableReadyCheck: true,
       maxRetriesPerRequest: 2,
     });
