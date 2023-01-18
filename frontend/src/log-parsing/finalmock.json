@@ -1,0 +1,3382 @@
+{
+    "id": "c8f2131b-0161-4f77-9b68-6c57dee98082",
+    "createdAt": 1672269782689,
+    "unlisted": true,
+    "firstPacket": 1672269782689,
+    "lastPacket": 1672270095725,
+    "duration": 313036,
+    "entities": [
+        {
+            "lastUpdate": 1672270095452,
+            "id": "42f76ee9",
+            "npcId": 0,
+            "name": "Lousipher",
+            "type": 3,
+            "classId": 105,
+            "gearLevel": 1475,
+            "currentHp": 113063,
+            "maxHp": 114164,
+            "skills": [
+                {
+                    "id": 36000,
+                    "name": "Basic Attack",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 5,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 39887,
+                        "topDamage": 14399
+                    }
+                },
+                {
+                    "id": 36020,
+                    "name": "Sprint",
+                    "stats": {
+                        "casts": 9,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 36025,
+                    "name": "Stand Up",
+                    "stats": {
+                        "casts": 3,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 36050,
+                    "name": "Light Shock",
+                    "stats": {
+                        "casts": 20,
+                        "hits": 19,
+                        "crits": 2,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1832758,
+                        "topDamage": 233090
+                    }
+                },
+                {
+                    "id": 36070,
+                    "name": "Charge",
+                    "stats": {
+                        "casts": 2,
+                        "hits": 1,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 66069,
+                        "topDamage": 66069
+                    }
+                },
+                {
+                    "id": 36140,
+                    "name": "Holy Protection",
+                    "stats": {
+                        "casts": 9,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 36150,
+                    "name": "Godsent Law",
+                    "stats": {
+                        "casts": 17,
+                        "hits": 68,
+                        "crits": 10,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 2078950,
+                        "topDamage": 81368
+                    }
+                },
+                {
+                    "id": 36160,
+                    "name": "Executor's Sword",
+                    "stats": {
+                        "casts": 6,
+                        "hits": 14,
+                        "crits": 1,
+                        "backHits": 9,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1606940,
+                        "topDamage": 298153
+                    }
+                },
+                {
+                    "id": 36170,
+                    "name": "Wrath of God",
+                    "stats": {
+                        "casts": 12,
+                        "hits": 11,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1662025,
+                        "topDamage": 213508
+                    }
+                },
+                {
+                    "id": 36190,
+                    "name": "Holy Sword",
+                    "stats": {
+                        "casts": 8,
+                        "hits": 25,
+                        "crits": 4,
+                        "backHits": 4,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 3660291,
+                        "topDamage": 375334
+                    }
+                },
+                {
+                    "id": 36200,
+                    "name": "Heavenly Blessings",
+                    "stats": {
+                        "casts": 11,
+                        "hits": 11,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1488559,
+                        "topDamage": 218197
+                    }
+                },
+                {
+                    "id": 36800,
+                    "name": "Holy Aura",
+                    "stats": {
+                        "casts": 2,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                }
+            ],
+            "stats": {
+                "casts": 100,
+                "hits": 154,
+                "crits": 17,
+                "backHits": 13,
+                "frontHits": 0,
+                "counters": 1,
+                "damageDealt": 12435479,
+                "healing": 1024291,
+                "damageTaken": 12832,
+                "deaths": 0,
+                "dps": 39725.395801121915,
+                "dpsOverTime": [
+                    0,
+                    61177.8,
+                    45429,
+                    37723.6,
+                    30489.85,
+                    28282.32,
+                    25942.9,
+                    25180.34,
+                    23972.58,
+                    21308.96,
+                    20391.32,
+                    19812.85,
+                    19893.23,
+                    23536.23,
+                    22619.43,
+                    24395.17,
+                    27666.92,
+                    26039.46,
+                    24592.82,
+                    23298.46,
+                    24996.91,
+                    37012.61,
+                    40387.2,
+                    39680.38,
+                    42008.44,
+                    42673.98,
+                    42770.12,
+                    41186.04,
+                    39715.11,
+                    38345.63,
+                    37067.44,
+                    38360.63,
+                    39957.06,
+                    45385.81,
+                    47321.92,
+                    47101.83,
+                    45803.93,
+                    44565.98,
+                    44144.42,
+                    43012.51,
+                    41937.2,
+                    40914.34,
+                    39940.19,
+                    39318.65,
+                    39990.8,
+                    40563.02,
+                    41023.93,
+                    40883.27,
+                    40448.67,
+                    42043.63,
+                    41898.2,
+                    41076.67,
+                    40996.81,
+                    43454.03,
+                    43376.13,
+                    42587.48,
+                    41828.03,
+                    41094.2,
+                    40385.68,
+                    40615.28,
+                    40629.45,
+                    39963.39,
+                    39725.4
+                ]
+            }
+        },
+        {
+            "lastUpdate": 1672270095725,
+            "id": "42f69c09",
+            "npcId": 620290,
+            "name": "Kungelanium",
+            "type": 2,
+            "classId": 0,
+            "gearLevel": 0,
+            "currentHp": -8142507,
+            "maxHp": 1155946617,
+            "skills": [
+                {
+                    "id": 490031,
+                    "name": "쿤겔라니움_앞발 찍기",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 1,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 3567,
+                        "topDamage": 3567
+                    }
+                },
+                {
+                    "id": 490034,
+                    "name": "쿤겔라니움_전방 냉기 브레스",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 7,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 12146,
+                        "topDamage": 2125
+                    }
+                },
+                {
+                    "id": 490036,
+                    "name": "쿤겔라니움_냉기탄 발사",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 93,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 17574,
+                        "topDamage": 8386
+                    }
+                },
+                {
+                    "id": 490039,
+                    "name": "쿤겔라니움_주변 얼음 낙하_부위파괴후",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 15,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 30092,
+                        "topDamage": 8630
+                    }
+                },
+                {
+                    "id": 490040,
+                    "name": "쿤겔라니움_빙하 폭격_부위파괴후",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 12,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 50190,
+                        "topDamage": 9321
+                    }
+                },
+                {
+                    "id": 490041,
+                    "name": "쿤겔라니움_제자리 도약 선회",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 7,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 17152,
+                        "topDamage": 9073
+                    }
+                },
+                {
+                    "id": 490042,
+                    "name": "쿤겔라니움_지역이동 도착 얼음 방출",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 6,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 31660,
+                        "topDamage": 13620
+                    }
+                },
+                {
+                    "id": 490045,
+                    "name": "쿤겔라니움_냉혹한 서리 바람 (광폭화 스킬) (전멸기)",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 133,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 42237,
+                        "topDamage": 18568
+                    }
+                },
+                {
+                    "id": 490053,
+                    "name": "쿤겔라니움_광폭_백 점프 후 냉기 브레스 발사",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 15,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 24205,
+                        "topDamage": 8943
+                    }
+                },
+                {
+                    "id": 490054,
+                    "name": "쿤겔라니움_광폭_냉기탄 발사 + 얼음 파편",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 24,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 2363,
+                        "topDamage": 337
+                    }
+                },
+                {
+                    "id": 490055,
+                    "name": "쿤겔라니움_광폭_연속 제자리 도약 찍기_(광역기)",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 10,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 23136,
+                        "topDamage": 22141
+                    }
+                },
+                {
+                    "id": 490056,
+                    "name": "쿤겔라니움_광폭_주변 얼음 낙하",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 40,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 16775,
+                        "topDamage": 7718
+                    }
+                },
+                {
+                    "id": 490059,
+                    "name": "쿤겔라니움_광폭_전방 돌진 후 뒤로 넘기기",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 14,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1481,
+                        "topDamage": 426
+                    }
+                },
+                {
+                    "id": 490060,
+                    "name": "쿤겔라니움_광폭_제자리 도약 선회",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 21,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1877,
+                        "topDamage": 392
+                    }
+                },
+                {
+                    "id": 490061,
+                    "name": "쿤겔라니움_광폭_앞발 찍기",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 6,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 9118,
+                        "topDamage": 4275
+                    }
+                },
+                {
+                    "id": 490062,
+                    "name": "쿤겔라니움_광폭_오른쪽 찍기",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 8,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 5528,
+                        "topDamage": 3114
+                    }
+                },
+                {
+                    "id": 490063,
+                    "name": "쿤겔라니움_광폭_왼쪽 찍기",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 5,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 490064,
+                    "name": "쿤겔라니움_초근접_제자리 점프",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 5,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 22279,
+                        "topDamage": 12091
+                    }
+                },
+                {
+                    "id": 490065,
+                    "name": "쿤겔라니움_광폭_초근접_제자리 점프",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 11,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 3667,
+                        "topDamage": 408
+                    }
+                }
+            ],
+            "stats": {
+                "casts": 0,
+                "hits": 433,
+                "crits": 0,
+                "backHits": 0,
+                "frontHits": 0,
+                "counters": 0,
+                "damageDealt": 315047,
+                "healing": 0,
+                "damageTaken": 1155946617,
+                "deaths": 0,
+                "dps": 0,
+                "dpsOverTime": []
+            }
+        },
+        {
+            "lastUpdate": 1672270095654,
+            "id": "42f78729",
+            "npcId": 0,
+            "name": "Whalencio",
+            "type": 3,
+            "classId": 505,
+            "gearLevel": 1460,
+            "currentHp": 80623,
+            "maxHp": 95695,
+            "skills": [
+                {
+                    "id": 35000,
+                    "name": "스카우터 평타",
+                    "stats": {
+                        "casts": 24,
+                        "hits": 18,
+                        "crits": 12,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 79437,
+                        "topDamage": 10323
+                    }
+                },
+                {
+                    "id": 35020,
+                    "name": "Tremors",
+                    "stats": {
+                        "casts": 5,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35030,
+                    "name": "Stand Up",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35080,
+                    "name": "Command: Flare Beam",
+                    "stats": {
+                        "casts": 6,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35081,
+                    "name": "[드론] 플레어 빔",
+                    "stats": {
+                        "casts": 6,
+                        "hits": 23,
+                        "crits": 9,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 5631526,
+                        "topDamage": 1296754
+                    }
+                },
+                {
+                    "id": 35100,
+                    "name": "Command: Baby Drones",
+                    "stats": {
+                        "casts": 6,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35101,
+                    "name": "[드론] 베이비 드론",
+                    "stats": {
+                        "casts": 6,
+                        "hits": 15,
+                        "crits": 13,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 6766022,
+                        "topDamage": 768059
+                    }
+                },
+                {
+                    "id": 35110,
+                    "name": "Command: Raid Missile",
+                    "stats": {
+                        "casts": 10,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35111,
+                    "name": "[드론] 레이드 미사일",
+                    "stats": {
+                        "casts": 10,
+                        "hits": 90,
+                        "crits": 88,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 7560846,
+                        "topDamage": 148733
+                    }
+                },
+                {
+                    "id": 35120,
+                    "name": "Fiery Escape",
+                    "stats": {
+                        "casts": 5,
+                        "hits": 3,
+                        "crits": 1,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 192395,
+                        "topDamage": 100205
+                    }
+                },
+                {
+                    "id": 35130,
+                    "name": "Annihilation Mode",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 2,
+                        "crits": 1,
+                        "backHits": 2,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 589955,
+                        "topDamage": 420928
+                    }
+                },
+                {
+                    "id": 35180,
+                    "name": "Mobile Shot",
+                    "stats": {
+                        "casts": 3,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35181,
+                    "name": "Mobile Shot",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 1,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 38734,
+                        "topDamage": 38734
+                    }
+                },
+                {
+                    "id": 35182,
+                    "name": "Mobile Shot",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35210,
+                    "name": "Energy Buster",
+                    "stats": {
+                        "casts": 8,
+                        "hits": 53,
+                        "crits": 53,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 14830343,
+                        "topDamage": 412021
+                    }
+                },
+                {
+                    "id": 35700,
+                    "name": "Hypersync",
+                    "stats": {
+                        "casts": 8,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35720,
+                    "name": "Basic Attack",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 2,
+                        "crits": 2,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 306803,
+                        "topDamage": 184378
+                    }
+                },
+                {
+                    "id": 35730,
+                    "name": "Thruster Move",
+                    "stats": {
+                        "casts": 10,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35740,
+                    "name": "Stand Up",
+                    "stats": {
+                        "casts": 4,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 35750,
+                    "name": "Comet Strike",
+                    "stats": {
+                        "casts": 24,
+                        "hits": 21,
+                        "crits": 12,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 27238292,
+                        "topDamage": 2653785
+                    }
+                },
+                {
+                    "id": 35760,
+                    "name": "Slugshot",
+                    "stats": {
+                        "casts": 15,
+                        "hits": 53,
+                        "crits": 34,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 22197707,
+                        "topDamage": 758188
+                    }
+                },
+                {
+                    "id": 35770,
+                    "name": "Laser Blade",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 3,
+                        "crits": 1,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 946246,
+                        "topDamage": 465274
+                    }
+                },
+                {
+                    "id": 35771,
+                    "name": "[싱크] 레이저 블레이드 (연결)",
+                    "stats": {
+                        "casts": 10,
+                        "hits": 37,
+                        "crits": 25,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 31577301,
+                        "topDamage": 2964810
+                    }
+                },
+                {
+                    "id": 35781,
+                    "name": "[싱크] 엑셀리온 빔 (연결)",
+                    "stats": {
+                        "casts": 12,
+                        "hits": 11,
+                        "crits": 9,
+                        "backHits": 0,
+                        "frontHits": 5,
+                        "counters": 0,
+                        "damageDealt": 48902952,
+                        "topDamage": 7713872
+                    }
+                },
+                {
+                    "id": 35790,
+                    "name": "Surge Blow",
+                    "stats": {
+                        "casts": 5,
+                        "hits": 17,
+                        "crits": 8,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 9758567,
+                        "topDamage": 3974611
+                    }
+                },
+                {
+                    "id": 35800,
+                    "name": "Crimson Breaker",
+                    "stats": {
+                        "casts": 14,
+                        "hits": 67,
+                        "crits": 40,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 74385729,
+                        "topDamage": 2467968
+                    }
+                },
+                {
+                    "id": 35930,
+                    "name": "Air Strike",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 4,
+                        "crits": 4,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 10991092,
+                        "topDamage": 2833472
+                    }
+                }
+            ],
+            "stats": {
+                "casts": 198,
+                "hits": 420,
+                "crits": 312,
+                "backHits": 2,
+                "frontHits": 5,
+                "counters": 0,
+                "damageDealt": 261993947,
+                "healing": 554691,
+                "damageTaken": 100527,
+                "deaths": 0,
+                "dps": 836945.1021607738,
+                "dpsOverTime": [
+                    null,
+                    176579.2,
+                    140636.6,
+                    1133862.47,
+                    959974.1,
+                    922008.24,
+                    941086.2,
+                    894466.54,
+                    789849.25,
+                    706713.44,
+                    636042.1,
+                    596183.47,
+                    604667.93,
+                    623484.95,
+                    622639.01,
+                    626732.08,
+                    606263.09,
+                    570600.55,
+                    538900.52,
+                    510537.34,
+                    518029.55,
+                    584843.79,
+                    752283.01,
+                    846359.77,
+                    902955.97,
+                    882496.06,
+                    866036.2,
+                    842749.51,
+                    812651.31,
+                    831784.49,
+                    804058.34,
+                    789237.71,
+                    794545.56,
+                    834689.21,
+                    870358.75,
+                    883741.71,
+                    859566.1,
+                    836334.58,
+                    814325.78,
+                    793445.63,
+                    773609.49,
+                    754740.97,
+                    747342.3,
+                    735468.94,
+                    735019.78,
+                    751706.13,
+                    796324.05,
+                    861627.52,
+                    849096,
+                    846420.44,
+                    835460.73,
+                    865993.01,
+                    867615.09,
+                    880865.59,
+                    910239.1,
+                    904753.06,
+                    888642.15,
+                    873051.93,
+                    858048.01,
+                    843529.25,
+                    839937.77,
+                    826168.3,
+                    836945.1
+                ]
+            }
+        },
+        {
+            "lastUpdate": 1672270094926,
+            "id": "42f7a2c9",
+            "npcId": 0,
+            "name": "Lyhlyth",
+            "type": 3,
+            "classId": 404,
+            "gearLevel": 1460,
+            "currentHp": 80192,
+            "maxHp": 106861,
+            "skills": [
+                {
+                    "id": 0,
+                    "name": "Unknown Skill",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 281,
+                        "crits": 119,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 8288785,
+                        "topDamage": 221204
+                    }
+                },
+                {
+                    "id": 26000,
+                    "name": "[리퍼] [평타]",
+                    "stats": {
+                        "casts": 14,
+                        "hits": 17,
+                        "crits": 9,
+                        "backHits": 17,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 936624,
+                        "topDamage": 193499
+                    }
+                },
+                {
+                    "id": 26020,
+                    "name": "Shadow Step",
+                    "stats": {
+                        "casts": 11,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 26030,
+                    "name": "Stand Up",
+                    "stats": {
+                        "casts": 5,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 26070,
+                    "name": "Shadow Vortex",
+                    "stats": {
+                        "casts": 32,
+                        "hits": 89,
+                        "crits": 52,
+                        "backHits": 80,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 8506389,
+                        "topDamage": 284051
+                    }
+                },
+                {
+                    "id": 26090,
+                    "name": "Nightmare",
+                    "stats": {
+                        "casts": 12,
+                        "hits": 12,
+                        "crits": 3,
+                        "backHits": 4,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 3067527,
+                        "topDamage": 769594
+                    }
+                },
+                {
+                    "id": 26130,
+                    "name": "Nightmare",
+                    "stats": {
+                        "casts": 12,
+                        "hits": 10,
+                        "crits": 6,
+                        "backHits": 5,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1443720,
+                        "topDamage": 318385
+                    }
+                },
+                {
+                    "id": 26510,
+                    "name": "Distortion",
+                    "stats": {
+                        "casts": 23,
+                        "hits": 74,
+                        "crits": 32,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 3613466,
+                        "topDamage": 293977
+                    }
+                },
+                {
+                    "id": 26600,
+                    "name": "Shadow Storm",
+                    "stats": {
+                        "casts": 15,
+                        "hits": 44,
+                        "crits": 22,
+                        "backHits": 37,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 13721608,
+                        "topDamage": 1674017
+                    }
+                },
+                {
+                    "id": 26800,
+                    "name": "Glowing Brand",
+                    "stats": {
+                        "casts": 22,
+                        "hits": 20,
+                        "crits": 18,
+                        "backHits": 19,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 82400756,
+                        "topDamage": 8432929
+                    }
+                },
+                {
+                    "id": 26810,
+                    "name": "Rage Spear",
+                    "stats": {
+                        "casts": 20,
+                        "hits": 77,
+                        "crits": 37,
+                        "backHits": 69,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 68124890,
+                        "topDamage": 7257133
+                    }
+                },
+                {
+                    "id": 26820,
+                    "name": "Silent Rage",
+                    "stats": {
+                        "casts": 21,
+                        "hits": 20,
+                        "crits": 9,
+                        "backHits": 19,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 44839134,
+                        "topDamage": 5908212
+                    }
+                },
+                {
+                    "id": 26830,
+                    "name": "Dance of Fury",
+                    "stats": {
+                        "casts": 16,
+                        "hits": 63,
+                        "crits": 35,
+                        "backHits": 59,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 74450262,
+                        "topDamage": 5856774
+                    }
+                },
+                {
+                    "id": 26900,
+                    "name": "Lunar Eclipse: Cadenza",
+                    "stats": {
+                        "casts": 2,
+                        "hits": 24,
+                        "crits": 12,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 21153014,
+                        "topDamage": 9210639
+                    }
+                }
+            ],
+            "stats": {
+                "casts": 205,
+                "hits": 731,
+                "crits": 354,
+                "backHits": 309,
+                "frontHits": 0,
+                "counters": 1,
+                "damageDealt": 330546175,
+                "healing": 1863049,
+                "damageTaken": 114737,
+                "deaths": 0,
+                "dps": 1055936.6175136406,
+                "dpsOverTime": [
+                    0,
+                    717128,
+                    539890.2,
+                    571166.53,
+                    743094.55,
+                    802464.56,
+                    793465.57,
+                    720297.14,
+                    659627.28,
+                    588432.58,
+                    589885.96,
+                    593703.64,
+                    557009.85,
+                    589570.94,
+                    591098.46,
+                    641963,
+                    739678.46,
+                    696167.96,
+                    657491.97,
+                    622887.13,
+                    736974.03,
+                    718491.62,
+                    840881.75,
+                    859489.55,
+                    975033.34,
+                    995283.26,
+                    1028563.05,
+                    991025.26,
+                    961818.85,
+                    959838.12,
+                    1005719.62,
+                    1033347.21,
+                    1080358.85,
+                    1134006.92,
+                    1107443.52,
+                    1163343.23,
+                    1131097.77,
+                    1100528.78,
+                    1071567.49,
+                    1044091.41,
+                    1017989.12,
+                    993160.12,
+                    972134.3,
+                    972117.39,
+                    963727.95,
+                    942311.77,
+                    934626.11,
+                    1041053.65,
+                    1021711.77,
+                    1007342.11,
+                    1024706.32,
+                    1019560.7,
+                    1001146.92,
+                    1047924.29,
+                    1048364.37,
+                    1093953.55,
+                    1074420.28,
+                    1055572.02,
+                    1049193.29,
+                    1066957.17,
+                    1049283.33,
+                    1032095.63,
+                    1055936.62
+                ]
+            }
+        },
+        {
+            "lastUpdate": 1672270095725,
+            "id": "42f778a9",
+            "npcId": 0,
+            "name": "Tharjat",
+            "type": 3,
+            "classId": 202,
+            "gearLevel": 0,
+            "currentHp": 71858,
+            "maxHp": 97411,
+            "skills": [
+                {
+                    "id": 0,
+                    "name": "Bleed",
+                    "stats": {
+                        "casts": 0,
+                        "hits": 110,
+                        "crits": 32,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 8311405,
+                        "topDamage": 242261
+                    }
+                },
+                {
+                    "id": 19000,
+                    "name": "[아르카나] 평타",
+                    "stats": {
+                        "casts": 59,
+                        "hits": 84,
+                        "crits": 31,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 2228207,
+                        "topDamage": 101525
+                    }
+                },
+                {
+                    "id": 19100,
+                    "name": "Vanish",
+                    "stats": {
+                        "casts": 9,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 19105,
+                    "name": "Stand Up",
+                    "stats": {
+                        "casts": 2,
+                        "hits": 0,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 0,
+                        "topDamage": 0
+                    }
+                },
+                {
+                    "id": 19140,
+                    "name": "Celestial Rain",
+                    "stats": {
+                        "casts": 18,
+                        "hits": 36,
+                        "crits": 25,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 210080245,
+                        "topDamage": 21320991
+                    }
+                },
+                {
+                    "id": 19160,
+                    "name": "Four of a Kind",
+                    "stats": {
+                        "casts": 23,
+                        "hits": 42,
+                        "crits": 35,
+                        "backHits": 8,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 136503126,
+                        "topDamage": 9796252
+                    }
+                },
+                {
+                    "id": 19170,
+                    "name": "Quadra Accelerate",
+                    "stats": {
+                        "casts": 20,
+                        "hits": 84,
+                        "crits": 28,
+                        "backHits": 25,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 7057541,
+                        "topDamage": 336858
+                    }
+                },
+                {
+                    "id": 19180,
+                    "name": "Call of Destiny",
+                    "stats": {
+                        "casts": 23,
+                        "hits": 23,
+                        "crits": 9,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 3927965,
+                        "topDamage": 443988
+                    }
+                },
+                {
+                    "id": 19190,
+                    "name": "Spiral Edge",
+                    "stats": {
+                        "casts": 17,
+                        "hits": 33,
+                        "crits": 12,
+                        "backHits": 5,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1551794,
+                        "topDamage": 160351
+                    }
+                },
+                {
+                    "id": 19195,
+                    "name": "Spiral Edge",
+                    "stats": {
+                        "casts": 16,
+                        "hits": 30,
+                        "crits": 11,
+                        "backHits": 2,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 1497183,
+                        "topDamage": 170914
+                    }
+                },
+                {
+                    "id": 19260,
+                    "name": "Return",
+                    "stats": {
+                        "casts": 20,
+                        "hits": 40,
+                        "crits": 30,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 6807678,
+                        "topDamage": 361557
+                    }
+                },
+                {
+                    "id": 19270,
+                    "name": "삼두사 평타",
+                    "stats": {
+                        "casts": 3,
+                        "hits": 12,
+                        "crits": 6,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 750988,
+                        "topDamage": 93750
+                    }
+                },
+                {
+                    "id": 19310,
+                    "name": "Secret Garden",
+                    "stats": {
+                        "casts": 24,
+                        "hits": 43,
+                        "crits": 35,
+                        "backHits": 3,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 164303425,
+                        "topDamage": 14407758
+                    }
+                },
+                {
+                    "id": 19320,
+                    "name": "Scratch Dealer",
+                    "stats": {
+                        "casts": 26,
+                        "hits": 52,
+                        "crits": 14,
+                        "backHits": 13,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 4061184,
+                        "topDamage": 230489
+                    }
+                },
+                {
+                    "id": 19330,
+                    "name": "Deathbound",
+                    "stats": {
+                        "casts": 1,
+                        "hits": 1,
+                        "crits": 0,
+                        "backHits": 0,
+                        "frontHits": 0,
+                        "counters": 0,
+                        "damageDealt": 3890275,
+                        "topDamage": 3890275
+                    }
+                }
+            ],
+            "stats": {
+                "casts": 261,
+                "hits": 590,
+                "crits": 268,
+                "backHits": 56,
+                "frontHits": 0,
+                "counters": 0,
+                "damageDealt": 550971016,
+                "healing": 1008454,
+                "damageTaken": 86951,
+                "deaths": 0,
+                "dps": 1760088.3476660831,
+                "dpsOverTime": [
+                    0,
+                    46630,
+                    1178776.4,
+                    1067648.33,
+                    1061338,
+                    1201490.4,
+                    1136188.63,
+                    1075589.09,
+                    1005068.93,
+                    976987.31,
+                    988225.3,
+                    904008.09,
+                    968689,
+                    951152.63,
+                    983862.26,
+                    1011239.41,
+                    1006306.18,
+                    947111.69,
+                    894494.38,
+                    847415.73,
+                    1117552.86,
+                    1443409.07,
+                    1519969.34,
+                    1541976.35,
+                    1542859.94,
+                    1742192.7,
+                    1722104.6,
+                    1765251.38,
+                    1703645.78,
+                    1858522.17,
+                    1852095.22,
+                    1863319.65,
+                    2011432.61,
+                    2019289.85,
+                    2033970.83,
+                    2056754.81,
+                    1999861.31,
+                    1945811.01,
+                    1894779.88,
+                    1846195.78,
+                    1800040.89,
+                    1756137.45,
+                    1717422.31,
+                    1902420.55,
+                    1862433.65,
+                    1884734.6,
+                    1848813.16,
+                    1914436.31,
+                    1928256.91,
+                    1891965.8,
+                    1856226.18,
+                    1841609.13,
+                    1807702.7,
+                    1906128.03,
+                    1871379.4,
+                    1859175.27,
+                    1825986.64,
+                    1793951.78,
+                    1763662.68,
+                    1767090.25,
+                    1742674.37,
+                    1757080.59,
+                    1760088.35
+                ]
+            }
+        }
+    ],
+    "damageStatistics": {
+        "totalDamageDealt": 1155946617,
+        "totalDamageTaken": 315047,
+        "topDamageDealt": 550971016,
+        "topDamageTaken": 114737,
+        "dps": 3692695.4631416197,
+        "dpsIntervals": [
+            0,
+            5000,
+            10000,
+            15000,
+            20000,
+            25000,
+            30000,
+            35000,
+            40000,
+            45000,
+            50000,
+            55000,
+            60000,
+            65000,
+            70000,
+            75000,
+            80000,
+            85000,
+            90000,
+            95000,
+            100000,
+            105000,
+            110000,
+            115000,
+            120000,
+            125000,
+            130000,
+            135000,
+            140000,
+            145000,
+            150000,
+            155000,
+            160000,
+            165000,
+            170000,
+            175000,
+            180000,
+            185000,
+            190000,
+            195000,
+            200000,
+            205000,
+            210000,
+            215000,
+            220000,
+            225000,
+            230000,
+            235000,
+            240000,
+            245000,
+            250000,
+            255000,
+            260000,
+            265000,
+            270000,
+            275000,
+            280000,
+            285000,
+            290000,
+            295000,
+            300000,
+            305000,
+            313036
+        ]
+    }
+},
+{
+  "id": "8ad6ccba-f773-462a-9e74-46115174b66a",
+  "createdAt": 1672269782689,
+  "unlisted": true,
+  "firstPacket": 1672269782689,
+  "lastPacket": 1672270095725,
+  "duration": 313036,
+  "entities": [
+      {
+          "lastUpdate": 1672270095452,
+          "id": "42f76ee9",
+          "npcId": 0,
+          "name": "Lousipher",
+          "type": 3,
+          "classId": 105,
+          "gearLevel": 1475,
+          "currentHp": 113063,
+          "maxHp": 114164,
+          "skills": [
+              {
+                  "id": 36000,
+                  "name": "Basic Attack",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 5,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 39887,
+                      "topDamage": 14399
+                  }
+              },
+              {
+                  "id": 36020,
+                  "name": "Sprint",
+                  "stats": {
+                      "casts": 9,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 36025,
+                  "name": "Stand Up",
+                  "stats": {
+                      "casts": 3,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 36050,
+                  "name": "Light Shock",
+                  "stats": {
+                      "casts": 20,
+                      "hits": 19,
+                      "crits": 2,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1832758,
+                      "topDamage": 233090
+                  }
+              },
+              {
+                  "id": 36070,
+                  "name": "Charge",
+                  "stats": {
+                      "casts": 2,
+                      "hits": 1,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 66069,
+                      "topDamage": 66069
+                  }
+              },
+              {
+                  "id": 36140,
+                  "name": "Holy Protection",
+                  "stats": {
+                      "casts": 9,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 36150,
+                  "name": "Godsent Law",
+                  "stats": {
+                      "casts": 17,
+                      "hits": 68,
+                      "crits": 10,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 2078950,
+                      "topDamage": 81368
+                  }
+              },
+              {
+                  "id": 36160,
+                  "name": "Executor's Sword",
+                  "stats": {
+                      "casts": 6,
+                      "hits": 14,
+                      "crits": 1,
+                      "backHits": 9,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1606940,
+                      "topDamage": 298153
+                  }
+              },
+              {
+                  "id": 36170,
+                  "name": "Wrath of God",
+                  "stats": {
+                      "casts": 12,
+                      "hits": 11,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1662025,
+                      "topDamage": 213508
+                  }
+              },
+              {
+                  "id": 36190,
+                  "name": "Holy Sword",
+                  "stats": {
+                      "casts": 8,
+                      "hits": 25,
+                      "crits": 4,
+                      "backHits": 4,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 3660291,
+                      "topDamage": 375334
+                  }
+              },
+              {
+                  "id": 36200,
+                  "name": "Heavenly Blessings",
+                  "stats": {
+                      "casts": 11,
+                      "hits": 11,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1488559,
+                      "topDamage": 218197
+                  }
+              },
+              {
+                  "id": 36800,
+                  "name": "Holy Aura",
+                  "stats": {
+                      "casts": 2,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              }
+          ],
+          "stats": {
+              "casts": 100,
+              "hits": 154,
+              "crits": 17,
+              "backHits": 13,
+              "frontHits": 0,
+              "counters": 1,
+              "damageDealt": 12435479,
+              "healing": 1024291,
+              "damageTaken": 12832,
+              "deaths": 0,
+              "dps": 39725.395801121915,
+              "dpsOverTime": [
+                  0,
+                  61177.8,
+                  45429,
+                  37723.6,
+                  30489.85,
+                  28282.32,
+                  25942.9,
+                  25180.34,
+                  23972.58,
+                  21308.96,
+                  20391.32,
+                  19812.85,
+                  19893.23,
+                  23536.23,
+                  22619.43,
+                  24395.17,
+                  27666.92,
+                  26039.46,
+                  24592.82,
+                  23298.46,
+                  24996.91,
+                  37012.61,
+                  40387.2,
+                  39680.38,
+                  42008.44,
+                  42673.98,
+                  42770.12,
+                  41186.04,
+                  39715.11,
+                  38345.63,
+                  37067.44,
+                  38360.63,
+                  39957.06,
+                  45385.81,
+                  47321.92,
+                  47101.83,
+                  45803.93,
+                  44565.98,
+                  44144.42,
+                  43012.51,
+                  41937.2,
+                  40914.34,
+                  39940.19,
+                  39318.65,
+                  39990.8,
+                  40563.02,
+                  41023.93,
+                  40883.27,
+                  40448.67,
+                  42043.63,
+                  41898.2,
+                  41076.67,
+                  40996.81,
+                  43454.03,
+                  43376.13,
+                  42587.48,
+                  41828.03,
+                  41094.2,
+                  40385.68,
+                  40615.28,
+                  40629.45,
+                  39963.39,
+                  39725.4
+              ]
+          }
+      },
+      {
+          "lastUpdate": 1672270095725,
+          "id": "42f69c09",
+          "npcId": 620290,
+          "name": "Kungelanium",
+          "type": 2,
+          "classId": 0,
+          "gearLevel": 0,
+          "currentHp": -8142507,
+          "maxHp": 1155946617,
+          "skills": [
+              {
+                  "id": 490031,
+                  "name": "쿤겔라니움_앞발 찍기",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 1,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 3567,
+                      "topDamage": 3567
+                  }
+              },
+              {
+                  "id": 490034,
+                  "name": "쿤겔라니움_전방 냉기 브레스",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 7,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 12146,
+                      "topDamage": 2125
+                  }
+              },
+              {
+                  "id": 490036,
+                  "name": "쿤겔라니움_냉기탄 발사",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 93,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 17574,
+                      "topDamage": 8386
+                  }
+              },
+              {
+                  "id": 490039,
+                  "name": "쿤겔라니움_주변 얼음 낙하_부위파괴후",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 15,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 30092,
+                      "topDamage": 8630
+                  }
+              },
+              {
+                  "id": 490040,
+                  "name": "쿤겔라니움_빙하 폭격_부위파괴후",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 12,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 50190,
+                      "topDamage": 9321
+                  }
+              },
+              {
+                  "id": 490041,
+                  "name": "쿤겔라니움_제자리 도약 선회",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 7,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 17152,
+                      "topDamage": 9073
+                  }
+              },
+              {
+                  "id": 490042,
+                  "name": "쿤겔라니움_지역이동 도착 얼음 방출",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 6,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 31660,
+                      "topDamage": 13620
+                  }
+              },
+              {
+                  "id": 490045,
+                  "name": "쿤겔라니움_냉혹한 서리 바람 (광폭화 스킬) (전멸기)",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 133,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 42237,
+                      "topDamage": 18568
+                  }
+              },
+              {
+                  "id": 490053,
+                  "name": "쿤겔라니움_광폭_백 점프 후 냉기 브레스 발사",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 15,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 24205,
+                      "topDamage": 8943
+                  }
+              },
+              {
+                  "id": 490054,
+                  "name": "쿤겔라니움_광폭_냉기탄 발사 + 얼음 파편",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 24,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 2363,
+                      "topDamage": 337
+                  }
+              },
+              {
+                  "id": 490055,
+                  "name": "쿤겔라니움_광폭_연속 제자리 도약 찍기_(광역기)",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 10,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 23136,
+                      "topDamage": 22141
+                  }
+              },
+              {
+                  "id": 490056,
+                  "name": "쿤겔라니움_광폭_주변 얼음 낙하",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 40,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 16775,
+                      "topDamage": 7718
+                  }
+              },
+              {
+                  "id": 490059,
+                  "name": "쿤겔라니움_광폭_전방 돌진 후 뒤로 넘기기",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 14,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1481,
+                      "topDamage": 426
+                  }
+              },
+              {
+                  "id": 490060,
+                  "name": "쿤겔라니움_광폭_제자리 도약 선회",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 21,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1877,
+                      "topDamage": 392
+                  }
+              },
+              {
+                  "id": 490061,
+                  "name": "쿤겔라니움_광폭_앞발 찍기",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 6,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 9118,
+                      "topDamage": 4275
+                  }
+              },
+              {
+                  "id": 490062,
+                  "name": "쿤겔라니움_광폭_오른쪽 찍기",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 8,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 5528,
+                      "topDamage": 3114
+                  }
+              },
+              {
+                  "id": 490063,
+                  "name": "쿤겔라니움_광폭_왼쪽 찍기",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 5,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 490064,
+                  "name": "쿤겔라니움_초근접_제자리 점프",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 5,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 22279,
+                      "topDamage": 12091
+                  }
+              },
+              {
+                  "id": 490065,
+                  "name": "쿤겔라니움_광폭_초근접_제자리 점프",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 11,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 3667,
+                      "topDamage": 408
+                  }
+              }
+          ],
+          "stats": {
+              "casts": 0,
+              "hits": 433,
+              "crits": 0,
+              "backHits": 0,
+              "frontHits": 0,
+              "counters": 0,
+              "damageDealt": 315047,
+              "healing": 0,
+              "damageTaken": 1155946617,
+              "deaths": 0,
+              "dps": 0,
+              "dpsOverTime": []
+          }
+      },
+      {
+          "lastUpdate": 1672270095654,
+          "id": "42f78729",
+          "npcId": 0,
+          "name": "Whalencio",
+          "type": 3,
+          "classId": 505,
+          "gearLevel": 1460,
+          "currentHp": 80623,
+          "maxHp": 95695,
+          "skills": [
+              {
+                  "id": 35000,
+                  "name": "스카우터 평타",
+                  "stats": {
+                      "casts": 24,
+                      "hits": 18,
+                      "crits": 12,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 79437,
+                      "topDamage": 10323
+                  }
+              },
+              {
+                  "id": 35020,
+                  "name": "Tremors",
+                  "stats": {
+                      "casts": 5,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35030,
+                  "name": "Stand Up",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35080,
+                  "name": "Command: Flare Beam",
+                  "stats": {
+                      "casts": 6,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35081,
+                  "name": "[드론] 플레어 빔",
+                  "stats": {
+                      "casts": 6,
+                      "hits": 23,
+                      "crits": 9,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 5631526,
+                      "topDamage": 1296754
+                  }
+              },
+              {
+                  "id": 35100,
+                  "name": "Command: Baby Drones",
+                  "stats": {
+                      "casts": 6,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35101,
+                  "name": "[드론] 베이비 드론",
+                  "stats": {
+                      "casts": 6,
+                      "hits": 15,
+                      "crits": 13,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 6766022,
+                      "topDamage": 768059
+                  }
+              },
+              {
+                  "id": 35110,
+                  "name": "Command: Raid Missile",
+                  "stats": {
+                      "casts": 10,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35111,
+                  "name": "[드론] 레이드 미사일",
+                  "stats": {
+                      "casts": 10,
+                      "hits": 90,
+                      "crits": 88,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 7560846,
+                      "topDamage": 148733
+                  }
+              },
+              {
+                  "id": 35120,
+                  "name": "Fiery Escape",
+                  "stats": {
+                      "casts": 5,
+                      "hits": 3,
+                      "crits": 1,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 192395,
+                      "topDamage": 100205
+                  }
+              },
+              {
+                  "id": 35130,
+                  "name": "Annihilation Mode",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 2,
+                      "crits": 1,
+                      "backHits": 2,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 589955,
+                      "topDamage": 420928
+                  }
+              },
+              {
+                  "id": 35180,
+                  "name": "Mobile Shot",
+                  "stats": {
+                      "casts": 3,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35181,
+                  "name": "Mobile Shot",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 1,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 38734,
+                      "topDamage": 38734
+                  }
+              },
+              {
+                  "id": 35182,
+                  "name": "Mobile Shot",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35210,
+                  "name": "Energy Buster",
+                  "stats": {
+                      "casts": 8,
+                      "hits": 53,
+                      "crits": 53,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 14830343,
+                      "topDamage": 412021
+                  }
+              },
+              {
+                  "id": 35700,
+                  "name": "Hypersync",
+                  "stats": {
+                      "casts": 8,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35720,
+                  "name": "Basic Attack",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 2,
+                      "crits": 2,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 306803,
+                      "topDamage": 184378
+                  }
+              },
+              {
+                  "id": 35730,
+                  "name": "Thruster Move",
+                  "stats": {
+                      "casts": 10,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35740,
+                  "name": "Stand Up",
+                  "stats": {
+                      "casts": 4,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 35750,
+                  "name": "Comet Strike",
+                  "stats": {
+                      "casts": 24,
+                      "hits": 21,
+                      "crits": 12,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 27238292,
+                      "topDamage": 2653785
+                  }
+              },
+              {
+                  "id": 35760,
+                  "name": "Slugshot",
+                  "stats": {
+                      "casts": 15,
+                      "hits": 53,
+                      "crits": 34,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 22197707,
+                      "topDamage": 758188
+                  }
+              },
+              {
+                  "id": 35770,
+                  "name": "Laser Blade",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 3,
+                      "crits": 1,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 946246,
+                      "topDamage": 465274
+                  }
+              },
+              {
+                  "id": 35771,
+                  "name": "[싱크] 레이저 블레이드 (연결)",
+                  "stats": {
+                      "casts": 10,
+                      "hits": 37,
+                      "crits": 25,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 31577301,
+                      "topDamage": 2964810
+                  }
+              },
+              {
+                  "id": 35781,
+                  "name": "[싱크] 엑셀리온 빔 (연결)",
+                  "stats": {
+                      "casts": 12,
+                      "hits": 11,
+                      "crits": 9,
+                      "backHits": 0,
+                      "frontHits": 5,
+                      "counters": 0,
+                      "damageDealt": 48902952,
+                      "topDamage": 7713872
+                  }
+              },
+              {
+                  "id": 35790,
+                  "name": "Surge Blow",
+                  "stats": {
+                      "casts": 5,
+                      "hits": 17,
+                      "crits": 8,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 9758567,
+                      "topDamage": 3974611
+                  }
+              },
+              {
+                  "id": 35800,
+                  "name": "Crimson Breaker",
+                  "stats": {
+                      "casts": 14,
+                      "hits": 67,
+                      "crits": 40,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 74385729,
+                      "topDamage": 2467968
+                  }
+              },
+              {
+                  "id": 35930,
+                  "name": "Air Strike",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 4,
+                      "crits": 4,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 10991092,
+                      "topDamage": 2833472
+                  }
+              }
+          ],
+          "stats": {
+              "casts": 198,
+              "hits": 420,
+              "crits": 312,
+              "backHits": 2,
+              "frontHits": 5,
+              "counters": 0,
+              "damageDealt": 261993947,
+              "healing": 554691,
+              "damageTaken": 100527,
+              "deaths": 0,
+              "dps": 836945.1021607738,
+              "dpsOverTime": [
+                  null,
+                  176579.2,
+                  140636.6,
+                  1133862.47,
+                  959974.1,
+                  922008.24,
+                  941086.2,
+                  894466.54,
+                  789849.25,
+                  706713.44,
+                  636042.1,
+                  596183.47,
+                  604667.93,
+                  623484.95,
+                  622639.01,
+                  626732.08,
+                  606263.09,
+                  570600.55,
+                  538900.52,
+                  510537.34,
+                  518029.55,
+                  584843.79,
+                  752283.01,
+                  846359.77,
+                  902955.97,
+                  882496.06,
+                  866036.2,
+                  842749.51,
+                  812651.31,
+                  831784.49,
+                  804058.34,
+                  789237.71,
+                  794545.56,
+                  834689.21,
+                  870358.75,
+                  883741.71,
+                  859566.1,
+                  836334.58,
+                  814325.78,
+                  793445.63,
+                  773609.49,
+                  754740.97,
+                  747342.3,
+                  735468.94,
+                  735019.78,
+                  751706.13,
+                  796324.05,
+                  861627.52,
+                  849096,
+                  846420.44,
+                  835460.73,
+                  865993.01,
+                  867615.09,
+                  880865.59,
+                  910239.1,
+                  904753.06,
+                  888642.15,
+                  873051.93,
+                  858048.01,
+                  843529.25,
+                  839937.77,
+                  826168.3,
+                  836945.1
+              ]
+          }
+      },
+      {
+          "lastUpdate": 1672270094926,
+          "id": "42f7a2c9",
+          "npcId": 0,
+          "name": "Lyhlyth",
+          "type": 3,
+          "classId": 404,
+          "gearLevel": 1460,
+          "currentHp": 80192,
+          "maxHp": 106861,
+          "skills": [
+              {
+                  "id": 0,
+                  "name": "Unknown Skill",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 281,
+                      "crits": 119,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 8288785,
+                      "topDamage": 221204
+                  }
+              },
+              {
+                  "id": 26000,
+                  "name": "[리퍼] [평타]",
+                  "stats": {
+                      "casts": 14,
+                      "hits": 17,
+                      "crits": 9,
+                      "backHits": 17,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 936624,
+                      "topDamage": 193499
+                  }
+              },
+              {
+                  "id": 26020,
+                  "name": "Shadow Step",
+                  "stats": {
+                      "casts": 11,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 26030,
+                  "name": "Stand Up",
+                  "stats": {
+                      "casts": 5,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 26070,
+                  "name": "Shadow Vortex",
+                  "stats": {
+                      "casts": 32,
+                      "hits": 89,
+                      "crits": 52,
+                      "backHits": 80,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 8506389,
+                      "topDamage": 284051
+                  }
+              },
+              {
+                  "id": 26090,
+                  "name": "Nightmare",
+                  "stats": {
+                      "casts": 12,
+                      "hits": 12,
+                      "crits": 3,
+                      "backHits": 4,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 3067527,
+                      "topDamage": 769594
+                  }
+              },
+              {
+                  "id": 26130,
+                  "name": "Nightmare",
+                  "stats": {
+                      "casts": 12,
+                      "hits": 10,
+                      "crits": 6,
+                      "backHits": 5,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1443720,
+                      "topDamage": 318385
+                  }
+              },
+              {
+                  "id": 26510,
+                  "name": "Distortion",
+                  "stats": {
+                      "casts": 23,
+                      "hits": 74,
+                      "crits": 32,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 3613466,
+                      "topDamage": 293977
+                  }
+              },
+              {
+                  "id": 26600,
+                  "name": "Shadow Storm",
+                  "stats": {
+                      "casts": 15,
+                      "hits": 44,
+                      "crits": 22,
+                      "backHits": 37,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 13721608,
+                      "topDamage": 1674017
+                  }
+              },
+              {
+                  "id": 26800,
+                  "name": "Glowing Brand",
+                  "stats": {
+                      "casts": 22,
+                      "hits": 20,
+                      "crits": 18,
+                      "backHits": 19,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 82400756,
+                      "topDamage": 8432929
+                  }
+              },
+              {
+                  "id": 26810,
+                  "name": "Rage Spear",
+                  "stats": {
+                      "casts": 20,
+                      "hits": 77,
+                      "crits": 37,
+                      "backHits": 69,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 68124890,
+                      "topDamage": 7257133
+                  }
+              },
+              {
+                  "id": 26820,
+                  "name": "Silent Rage",
+                  "stats": {
+                      "casts": 21,
+                      "hits": 20,
+                      "crits": 9,
+                      "backHits": 19,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 44839134,
+                      "topDamage": 5908212
+                  }
+              },
+              {
+                  "id": 26830,
+                  "name": "Dance of Fury",
+                  "stats": {
+                      "casts": 16,
+                      "hits": 63,
+                      "crits": 35,
+                      "backHits": 59,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 74450262,
+                      "topDamage": 5856774
+                  }
+              },
+              {
+                  "id": 26900,
+                  "name": "Lunar Eclipse: Cadenza",
+                  "stats": {
+                      "casts": 2,
+                      "hits": 24,
+                      "crits": 12,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 21153014,
+                      "topDamage": 9210639
+                  }
+              }
+          ],
+          "stats": {
+              "casts": 205,
+              "hits": 731,
+              "crits": 354,
+              "backHits": 309,
+              "frontHits": 0,
+              "counters": 1,
+              "damageDealt": 330546175,
+              "healing": 1863049,
+              "damageTaken": 114737,
+              "deaths": 0,
+              "dps": 1055936.6175136406,
+              "dpsOverTime": [
+                  0,
+                  717128,
+                  539890.2,
+                  571166.53,
+                  743094.55,
+                  802464.56,
+                  793465.57,
+                  720297.14,
+                  659627.28,
+                  588432.58,
+                  589885.96,
+                  593703.64,
+                  557009.85,
+                  589570.94,
+                  591098.46,
+                  641963,
+                  739678.46,
+                  696167.96,
+                  657491.97,
+                  622887.13,
+                  736974.03,
+                  718491.62,
+                  840881.75,
+                  859489.55,
+                  975033.34,
+                  995283.26,
+                  1028563.05,
+                  991025.26,
+                  961818.85,
+                  959838.12,
+                  1005719.62,
+                  1033347.21,
+                  1080358.85,
+                  1134006.92,
+                  1107443.52,
+                  1163343.23,
+                  1131097.77,
+                  1100528.78,
+                  1071567.49,
+                  1044091.41,
+                  1017989.12,
+                  993160.12,
+                  972134.3,
+                  972117.39,
+                  963727.95,
+                  942311.77,
+                  934626.11,
+                  1041053.65,
+                  1021711.77,
+                  1007342.11,
+                  1024706.32,
+                  1019560.7,
+                  1001146.92,
+                  1047924.29,
+                  1048364.37,
+                  1093953.55,
+                  1074420.28,
+                  1055572.02,
+                  1049193.29,
+                  1066957.17,
+                  1049283.33,
+                  1032095.63,
+                  1055936.62
+              ]
+          }
+      },
+      {
+          "lastUpdate": 1672270095725,
+          "id": "42f778a9",
+          "npcId": 0,
+          "name": "Tharjat",
+          "type": 3,
+          "classId": 202,
+          "gearLevel": 0,
+          "currentHp": 71858,
+          "maxHp": 97411,
+          "skills": [
+              {
+                  "id": 0,
+                  "name": "Bleed",
+                  "stats": {
+                      "casts": 0,
+                      "hits": 110,
+                      "crits": 32,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 8311405,
+                      "topDamage": 242261
+                  }
+              },
+              {
+                  "id": 19000,
+                  "name": "[아르카나] 평타",
+                  "stats": {
+                      "casts": 59,
+                      "hits": 84,
+                      "crits": 31,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 2228207,
+                      "topDamage": 101525
+                  }
+              },
+              {
+                  "id": 19100,
+                  "name": "Vanish",
+                  "stats": {
+                      "casts": 9,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 19105,
+                  "name": "Stand Up",
+                  "stats": {
+                      "casts": 2,
+                      "hits": 0,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 0,
+                      "topDamage": 0
+                  }
+              },
+              {
+                  "id": 19140,
+                  "name": "Celestial Rain",
+                  "stats": {
+                      "casts": 18,
+                      "hits": 36,
+                      "crits": 25,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 210080245,
+                      "topDamage": 21320991
+                  }
+              },
+              {
+                  "id": 19160,
+                  "name": "Four of a Kind",
+                  "stats": {
+                      "casts": 23,
+                      "hits": 42,
+                      "crits": 35,
+                      "backHits": 8,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 136503126,
+                      "topDamage": 9796252
+                  }
+              },
+              {
+                  "id": 19170,
+                  "name": "Quadra Accelerate",
+                  "stats": {
+                      "casts": 20,
+                      "hits": 84,
+                      "crits": 28,
+                      "backHits": 25,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 7057541,
+                      "topDamage": 336858
+                  }
+              },
+              {
+                  "id": 19180,
+                  "name": "Call of Destiny",
+                  "stats": {
+                      "casts": 23,
+                      "hits": 23,
+                      "crits": 9,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 3927965,
+                      "topDamage": 443988
+                  }
+              },
+              {
+                  "id": 19190,
+                  "name": "Spiral Edge",
+                  "stats": {
+                      "casts": 17,
+                      "hits": 33,
+                      "crits": 12,
+                      "backHits": 5,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1551794,
+                      "topDamage": 160351
+                  }
+              },
+              {
+                  "id": 19195,
+                  "name": "Spiral Edge",
+                  "stats": {
+                      "casts": 16,
+                      "hits": 30,
+                      "crits": 11,
+                      "backHits": 2,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 1497183,
+                      "topDamage": 170914
+                  }
+              },
+              {
+                  "id": 19260,
+                  "name": "Return",
+                  "stats": {
+                      "casts": 20,
+                      "hits": 40,
+                      "crits": 30,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 6807678,
+                      "topDamage": 361557
+                  }
+              },
+              {
+                  "id": 19270,
+                  "name": "삼두사 평타",
+                  "stats": {
+                      "casts": 3,
+                      "hits": 12,
+                      "crits": 6,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 750988,
+                      "topDamage": 93750
+                  }
+              },
+              {
+                  "id": 19310,
+                  "name": "Secret Garden",
+                  "stats": {
+                      "casts": 24,
+                      "hits": 43,
+                      "crits": 35,
+                      "backHits": 3,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 164303425,
+                      "topDamage": 14407758
+                  }
+              },
+              {
+                  "id": 19320,
+                  "name": "Scratch Dealer",
+                  "stats": {
+                      "casts": 26,
+                      "hits": 52,
+                      "crits": 14,
+                      "backHits": 13,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 4061184,
+                      "topDamage": 230489
+                  }
+              },
+              {
+                  "id": 19330,
+                  "name": "Deathbound",
+                  "stats": {
+                      "casts": 1,
+                      "hits": 1,
+                      "crits": 0,
+                      "backHits": 0,
+                      "frontHits": 0,
+                      "counters": 0,
+                      "damageDealt": 3890275,
+                      "topDamage": 3890275
+                  }
+              }
+          ],
+          "stats": {
+              "casts": 261,
+              "hits": 590,
+              "crits": 268,
+              "backHits": 56,
+              "frontHits": 0,
+              "counters": 0,
+              "damageDealt": 550971016,
+              "healing": 1008454,
+              "damageTaken": 86951,
+              "deaths": 0,
+              "dps": 1760088.3476660831,
+              "dpsOverTime": [
+                  0,
+                  46630,
+                  1178776.4,
+                  1067648.33,
+                  1061338,
+                  1201490.4,
+                  1136188.63,
+                  1075589.09,
+                  1005068.93,
+                  976987.31,
+                  988225.3,
+                  904008.09,
+                  968689,
+                  951152.63,
+                  983862.26,
+                  1011239.41,
+                  1006306.18,
+                  947111.69,
+                  894494.38,
+                  847415.73,
+                  1117552.86,
+                  1443409.07,
+                  1519969.34,
+                  1541976.35,
+                  1542859.94,
+                  1742192.7,
+                  1722104.6,
+                  1765251.38,
+                  1703645.78,
+                  1858522.17,
+                  1852095.22,
+                  1863319.65,
+                  2011432.61,
+                  2019289.85,
+                  2033970.83,
+                  2056754.81,
+                  1999861.31,
+                  1945811.01,
+                  1894779.88,
+                  1846195.78,
+                  1800040.89,
+                  1756137.45,
+                  1717422.31,
+                  1902420.55,
+                  1862433.65,
+                  1884734.6,
+                  1848813.16,
+                  1914436.31,
+                  1928256.91,
+                  1891965.8,
+                  1856226.18,
+                  1841609.13,
+                  1807702.7,
+                  1906128.03,
+                  1871379.4,
+                  1859175.27,
+                  1825986.64,
+                  1793951.78,
+                  1763662.68,
+                  1767090.25,
+                  1742674.37,
+                  1757080.59,
+                  1760088.35
+              ]
+          }
+      }
+  ],
+  "damageStatistics": {
+      "totalDamageDealt": 1155946617,
+      "totalDamageTaken": 315047,
+      "topDamageDealt": 550971016,
+      "topDamageTaken": 114737,
+      "dps": 3692695.4631416197,
+      "dpsIntervals": [
+          0,
+          5000,
+          10000,
+          15000,
+          20000,
+          25000,
+          30000,
+          35000,
+          40000,
+          45000,
+          50000,
+          55000,
+          60000,
+          65000,
+          70000,
+          75000,
+          80000,
+          85000,
+          90000,
+          95000,
+          100000,
+          105000,
+          110000,
+          115000,
+          120000,
+          125000,
+          130000,
+          135000,
+          140000,
+          145000,
+          150000,
+          155000,
+          160000,
+          165000,
+          170000,
+          175000,
+          180000,
+          185000,
+          190000,
+          195000,
+          200000,
+          205000,
+          210000,
+          215000,
+          220000,
+          225000,
+          230000,
+          235000,
+          240000,
+          245000,
+          250000,
+          255000,
+          260000,
+          265000,
+          270000,
+          275000,
+          280000,
+          285000,
+          290000,
+          295000,
+          300000,
+          305000,
+          313036
+      ]
+  }
+}

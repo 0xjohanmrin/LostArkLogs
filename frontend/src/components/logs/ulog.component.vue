@@ -5,7 +5,7 @@
         <v-file-input
           prepend-icon="mdi-upload"
           accept=".enc,.log,.json"
-          label="Log File s"
+          label="Log File"
           v-on:change="onFileChange"
           variant="outlined"
         ></v-file-input>
@@ -279,7 +279,7 @@ export default defineComponent({
         if (file.name.endsWith(".json")) {
           this.logType = "json";
           console.log("Reading in json log");
-          console.log(JSON.parse(await file.text()));
+          const data = JSON.parse(await file.text());
         }
         if (file.name.endsWith(".log")) {
           this.logType = "raw";
@@ -368,6 +368,18 @@ export default defineComponent({
       }
       this.fileLoaded = true;
     },
+
+    /*     async readJsonSession(data: string) {
+      this.rawDetails.found = data.length;
+      this.rawDetails.dropped = 0;
+      if (data.length > 0) {
+        this.rawDetails.date = new Date(data[0].firstPacket);
+        this.rawDetails.parsed = parsed;
+
+        this.rawDetails.encounters = encounters;
+      }
+      this.fileLoaded = true;
+    }, */
     async readSession(data: ArrayBuffer) {
       try {
         console.time("readSession");

@@ -282,6 +282,7 @@ export default defineComponent({
 
   mounted() {
     this.getEncounter();
+    console.log("EncounterCard mounted", this.session);
   },
 
   methods: {
