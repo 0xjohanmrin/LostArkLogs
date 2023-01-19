@@ -44,17 +44,6 @@ services:
       - '6378:6379'
     networks:
       - backend
-  mongo:
-    image: mongo:latest
-    container_name: mongo
-    volumes:
-      # Location for MongoDB data
-      - ./mongo/data:/data/db
-    ports:
-      - '27016:27017'
-    networks:
-      - backend
-    command: --bind_ip_all --replSet loa
 
 networks:
   backend:
