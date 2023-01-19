@@ -1,8 +1,8 @@
-import { DB_HOST, DB_PORT, DB_DATABASE, REDIS_HOST, REDIS_PORT } from '@config';
+import { DB_URL, REDIS_HOST, REDIS_PORT } from '@config';
 import { ConnectOptions } from 'mongoose';
 
 export const dbConnection: { url: string; options: ConnectOptions } = {
-  url: `mongodb+srv://admin:admin23@cluster0.natgise.mongodb.net/?retryWrites=true&w=majority`,
+  url: DB_URL,
   options: {
     useNewUrlParser: true,
     useUnifiedTopology: true,

@@ -21,4 +21,5 @@ export const {
   REDIRECT_URI,
   SSL_KEY,
   SSL_CERT,
+  DB_URL,
 } = process.env;
