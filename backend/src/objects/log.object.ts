@@ -303,6 +303,7 @@ export class LogEntityObject {
     this.gearLevel = entity.gearLevel || 0;
     this.currentHp = entity.currentHp;
     this.maxHp = entity.maxHp;
+    this.name = entity.name;
     if (entity.skills && entity.type === EntityType.PLAYER) this.skills = Object.values(entity.skills).map(skill => new LogEntitySkillObject(skill));
     else this.skills = [];
     this.stats = new LogEntityStatObject(entity.stats, duration);

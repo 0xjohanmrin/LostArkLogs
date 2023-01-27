@@ -106,7 +106,6 @@ export const logs: Module<any, any> = {
       return new Promise((resolve, reject) => {
         const io = app.config.globalProperties.$io;
         const atCookie = getters.accessToken;
-
         io.timeout(5000).emit(
           "upload_log",
           { at: atCookie, data: log },

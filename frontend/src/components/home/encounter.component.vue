@@ -382,7 +382,6 @@ export default defineComponent({
           JSON.stringify(this.session)
         ) as SimpleSession;
         encounter.unlisted = this.unlistedUpload;
-
         const res = await this.uploadLog(encounter);
         this.uploadedId = res;
         setTimeout(() => {

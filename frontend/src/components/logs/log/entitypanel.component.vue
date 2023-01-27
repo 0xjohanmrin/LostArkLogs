@@ -68,6 +68,17 @@
                   >
                     <h3></h3> </v-badge
                 ></v-col>
+                <v-col cols="auto" class="align-self-center px-0 py-0"
+                  ><v-badge
+                    v-if="entity?.name"
+                    inline
+                    color="red-darken-3"
+                    :rounded="0"
+                    :content="entity?.name[0]"
+                    class="badge-pad"
+                  >
+                    <h3></h3> </v-badge
+                ></v-col>
               </v-row>
               <div v-else>
                 <v-row v-if="mvp" class="mb-3"
