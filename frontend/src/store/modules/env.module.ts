@@ -1,6 +1,6 @@
 import { Module } from "vuex";
 import { NODE_ENV, API_HOST, DISCORD_REDIRECT } from "@/config/index";
-
+console.log("API_HOST", API_HOST);
 /**
  * Module containing environment related functions and variables.
  */

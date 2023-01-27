@@ -5,7 +5,7 @@
         <v-row justify="center" class="mb-5">
           <v-col align="left">
             <h2>
-              Recent Uploads
+              Recent Uploads v3
               <small style="font-size: 11pt">Last 24 hours</small>
             </h2>
           </v-col>

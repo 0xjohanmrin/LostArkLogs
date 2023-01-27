@@ -1,1 +1,3 @@
 mongo/data
+savedConfig.conf
+saveDocker-compose.yml
