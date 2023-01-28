@@ -156,6 +156,25 @@
           </v-list-item-avatar>
           <v-list-item-title>Stats</v-list-item-title>
         </v-list-item>
+        <hr />
+        <v-list-item
+          value="cguide"
+          v-on:click="$router.push({ name: 'cguide' })"
+        >
+          <v-list-item-avatar>
+            <v-icon color="white"> mdi-book </v-icon>
+          </v-list-item-avatar>
+          <v-list-item-title>Community Guide</v-list-item-title>
+        </v-list-item>
+        <v-list-item
+          value="gemCalculator"
+          v-on:click="$router.push({ name: 'GemCalculator' })"
+        >
+          <v-list-item-avatar>
+            <v-icon color="white"> mdi-diamond </v-icon>
+          </v-list-item-avatar>
+          <v-list-item-title>Gem Calculator</v-list-item-title>
+        </v-list-item>
       </v-list>
 
       <template v-slot:append>

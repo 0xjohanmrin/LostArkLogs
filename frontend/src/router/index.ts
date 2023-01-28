@@ -11,10 +11,12 @@ import LoginView from "@/views/login.view.vue";
 import UserView from "@/views/user.view.vue";
 import LogsView from "@/views/logs.view.vue";
 import AdminView from "@/views/admin.view.vue";
+import CGuideView from "@/views/cguide.view.vue";
+import BrelshazaTimer from "@/components/guide/raid/brelshaza/brelshazaTimer.component.vue";
 
 import UserProfile from "@/components/user.component.vue";
 import UserLookup from "@/components/user/lookup.component.vue";
-
+import gemCalculator from "@/components/gemCalculator.component.vue";
 import LogsBase from "@/components/logs/base.component.vue";
 import Log from "@/components/logs/log.component.vue";
 import ULog from "@/components/logs/ulog.component.vue";
@@ -34,6 +36,23 @@ const routes: Array<RouteRecordRaw> = [
     name: "login",
     component: LoginView,
     props: true,
+  },
+  {
+    path: "/cguide",
+    name: "cguide",
+    component: CGuideView,
+    props: true,
+  },
+  {
+    path: "/raid/brelshaza/timer",
+    name: "BrelshazaTimer",
+    component: BrelshazaTimer,
+    props: true,
+  },
+  {
+    path: "/gemcalculator",
+    name: "GemCalculator",
+    component: gemCalculator,
   },
   {
     path: "/profile",
