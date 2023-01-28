@@ -1,3 +1,5 @@
 mongo/data
 savedConfig.conf
 saveDocker-compose.yml
+mokoko
+mokoko.pub
