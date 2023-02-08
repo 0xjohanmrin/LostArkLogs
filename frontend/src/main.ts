@@ -15,6 +15,8 @@ import ECharts from "vue-echarts";
 import { use, registerTheme } from "echarts/core";
 import { CanvasRenderer } from "echarts/renderers";
 import { BarChart, LineChart } from "echarts/charts";
+import vSelect from "vue-select";
+import "vue-select/dist/vue-select.css";
 import {
   GridComponent,
   TooltipComponent,
@@ -39,7 +41,7 @@ loadFonts();
 
 const app = createApp(App);
 app.component("v-chart", ECharts);
-
+app.component("vue-select", vSelect);
 import en from "@/i18n/en";
 const i18n = createI18n({
   locale: "en",

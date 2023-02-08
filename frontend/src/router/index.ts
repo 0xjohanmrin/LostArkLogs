@@ -13,6 +13,7 @@ import LogsView from "@/views/logs.view.vue";
 import AdminView from "@/views/admin.view.vue";
 import CGuideView from "@/views/cguide.view.vue";
 import BrelshazaTimer from "@/components/guide/raid/brelshaza/brelshazaTimer.component.vue";
+import RosterView from "@/views/roster/roster.view.vue";
 
 import UserProfile from "@/components/user.component.vue";
 import UserLookup from "@/components/user/lookup.component.vue";
@@ -20,7 +21,8 @@ import gemCalculator from "@/components/gemCalculator.component.vue";
 import LogsBase from "@/components/logs/base.component.vue";
 import Log from "@/components/logs/log.component.vue";
 import ULog from "@/components/logs/ulog.component.vue";
-
+import RosterList from "@/components/user/rosterList.component.vue";
+import RosterDetail from "@/components/user/rosterDetail.component.vue";
 import UserAdmin from "@/components/admin/users.component.vue";
 import ServiceAdmin from "@/components/admin/service.component.vue";
 
@@ -43,6 +45,7 @@ const routes: Array<RouteRecordRaw> = [
     component: CGuideView,
     props: true,
   },
+
   {
     path: "/raid/brelshaza/timer",
     name: "BrelshazaTimer",
@@ -53,6 +56,23 @@ const routes: Array<RouteRecordRaw> = [
     path: "/gemcalculator",
     name: "GemCalculator",
     component: gemCalculator,
+  },
+  {
+    path: "/roster",
+    name: "roster",
+    component: RosterView,
+    children: [
+      {
+        path: "",
+        name: "rosterBase",
+        component: RosterList,
+      },
+      {
+        path: ":id",
+        name: "rosterDetail",
+        component: RosterDetail,
+      },
+    ],
   },
   {
     path: "/profile",

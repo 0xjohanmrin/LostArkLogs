@@ -175,6 +175,19 @@
           </v-list-item-avatar>
           <v-list-item-title>Gem Calculator</v-list-item-title>
         </v-list-item>
+
+        <hr />
+
+        <v-list-item
+          v-if="user"
+          value="ulog"
+          v-on:click="$router.push({ name: 'rosterBase' })"
+        >
+          <v-list-item-avatar>
+            <v-icon color="white"> mdi-group </v-icon>
+          </v-list-item-avatar>
+          <v-list-item-title>Roster</v-list-item-title>
+        </v-list-item>
       </v-list>
 
       <template v-slot:append>

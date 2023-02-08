@@ -129,6 +129,9 @@ export const apiKeyMiddleware = (
 ): RequestHandler => {
   return async (req: RequestWithUser, res: Response, next: NextFunction) => {
     try {
+      console.log('API KEY MIDDLEWARE');
+
+      console.log(req.query);
       const access = req[keyLocation].key as string;
 
       if (!access && cookieFallback) {

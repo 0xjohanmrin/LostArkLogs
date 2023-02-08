@@ -7,7 +7,7 @@ import { socket } from "./modules/socket.module";
 import { logs } from "./modules/logs.module";
 import { resources } from "./modules/resources.module";
 import { admin } from "./modules/admin.module";
-
+import { character } from "./modules/character.module";
 export const createVuexStore = (app: App<Element>) => {
   return createStore({
     modules: {
@@ -18,6 +18,7 @@ export const createVuexStore = (app: App<Element>) => {
       logs: logs,
       resources: resources,
       admin: admin,
+      character: character,
     },
     state: {
       app: app,

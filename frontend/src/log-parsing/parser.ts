@@ -95,6 +95,7 @@ export class PacketParser extends EventEmitter {
     const phaseRanges = this.getPhaseRanges(logData);
 
     console.log(`Parsing ${phaseRanges.length} potential encounters`);
+
     for (const phaseRange of phaseRanges) {
       const lines = logData.slice(phaseRange[0], phaseRange[1] + 1);
       lines.forEach((line) => this.parse(line));
@@ -103,11 +104,14 @@ export class PacketParser extends EventEmitter {
       if (bosses.length > 0) {
         const totalHp = [...bosses].sort((a, b) => b.maxHp - a.maxHp)[0].maxHp;
         const totalTaken = bosses.reduce((p, c) => p + c.stats.damageTaken, 0);
-
+        console.log(this.session.toSimpleObject());
+        console.log(totalHp);
+        console.log(totalTaken);
         // If damage taken is at least 95% of total, keep the encounter
-        if (totalTaken >= totalHp * 0.95) {
+        /*   if (totalTaken >= totalHp * 0.95) {
           encounters.push(this.session.toSimpleObject());
-        }
+        } */
+        encounters.push(this.session.toSimpleObject());
       }
 
       // If session has started, reset it
